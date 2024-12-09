@@ -1,0 +1,8 @@
+Total de personajes: 39
+Total de elementos únicos utilizados: 6
+Total de personajes de elemento A: 5
+Total de personajes de elemento R: 6
+Total de personajes de elemento T: 4
+Total de personajes de elemento F: 8
+Total de personajes de elemento V: 6
+Total de personajes de elemento H: 9
